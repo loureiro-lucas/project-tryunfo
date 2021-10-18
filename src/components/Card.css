@@ -1,0 +1,95 @@
+.card-preview {
+  background-color: #023031;
+  width: 50%;
+  /* padding: 10%; */
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#out-card {
+  background-color: #FFFFFF;
+  width: 300px;
+  height: 440px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#mid-card {
+  background-color: #036B52;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 280px;
+  height: 420px;
+  border-radius: 9px;
+}
+
+#in-card {
+  background-color: #FFFFFF;
+  width: 260px;
+  height: 400px;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+}
+
+#in-card h1 {
+  margin: 0;
+  padding: 5px 10px;
+  text-align: end;
+  background-color: #023031;
+  color: #FFFFFF;
+  border-radius: 7px 7px 0 0;
+  font-size: 25px;
+  height: 30px;
+}
+
+#in-card img {
+  width: 260px;
+}
+.card-attr {
+  background-color: rgb(238, 238, 238);
+  border-radius: 8px;
+  margin: 5px;
+  padding: 2px 5px;
+  width: 100px;
+  text-align: center;
+}
+
+#card-descrip {
+  text-align: center;
+  margin: 0;
+  padding: 5px 0;
+  font-size: smaller;
+  color: #FFFFFF;
+  background-color: #036B52;
+}
+
+#card-attr-rare-trunfo-container {
+  display: flex;
+  height: 100%;
+}
+
+#card-attr-container,
+#card-rare-trunfo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 50%;
+}
+
+#card-rare,
+#card-trunfo {
+  background-color: #036B52;
+  color: #FFFFFF;
+  border-radius: 8px;
+  margin: 5px;
+  padding: 2px 5px;
+  width: 100px;
+  text-align: center;
+}
