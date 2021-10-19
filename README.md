@@ -2,7 +2,7 @@
 
 That's the second project of **Front-end** module of Trybe course.
 
-The objective was to use our new React skills to develop form to create a Super Trunfo card game deck, using **state**, **props**, **nesting** and **event handlers**.
+The objective was to use our new React skills to develop form a to create a Super Trunfo card game deck, using **state**, **props**, **nesting** and **event handlers**.
 
 As well as hard skills, I could work my **soft skills**, specially **time management**.
 
